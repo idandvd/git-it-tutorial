@@ -16,17 +16,17 @@ This is a guided git and github tutorial. It is using the [git-it] desktop app b
 ### Submission details:
 
 - Personal excercise: HW3 - version control with Git
-- Name:
-- ID#
-- github username:
-- Estimation of hours I worked on it:
+- Name:Idan David
+- ID# 301789640
+- github username: idandvd
+- Estimation of hours I worked on it: 3
 
 Comments and wishes concerning this excercise:
 
 
 #### Screenshots
-![Status](./git-it-status.PNG)
-![Contributor](https://github.com/jce-il/git-it-tutorial/blob/master//git-it-contributor.PNG)
+![Status](./git-it-status.jpg)
+![Contributor](https://github.com/idandvd/git-it-tutorial/blob/patch-1/git-it-contributor.PNG)
 
 Good luck!
 
