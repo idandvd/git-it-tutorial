@@ -25,7 +25,7 @@ Comments and wishes concerning this excercise:
 
 
 #### Screenshots
-![Status](./git-it-status.jpg)
+![Status](https://github.com/idandvd/git-it-tutorial/blob/patch-1/git-it-status.JPG)
 ![Contributor](https://github.com/idandvd/git-it-tutorial/blob/patch-1/git-it-contributor.PNG)
 
 Good luck!
